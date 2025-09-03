@@ -1,5 +1,7 @@
 # Blinkit Sales Analysis Dashboard
 
+<img width="712" height="250" alt="Image" src="https://github.com/user-attachments/assets/0972d7a7-f580-49c6-9df3-a637484019d6" />
+
 - **Domain / Industry:** Retail (Grocery & Quick Commerce)
 - **Tools & Technologies:** Excel (Pivot Tables, Slicers, Charts, Dashboards), Power Query
 
