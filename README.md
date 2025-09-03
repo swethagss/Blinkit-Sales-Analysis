@@ -41,6 +41,8 @@ Blinkit operates across multiple outlets with different sizes, locations, and pr
   - **Location** : Tier 3 outlets outperform others ($472K in sales), suggesting strong demand in suburban areas.
   - **Trend** : Sales peaked in 2018 ($204.5K) but later declined, requiring further strategy review.
 
+https://github.com/user-attachments/assets/30f6c16a-dbc8-4108-844f-cf13bfd6ce90
+
 ## Recommendations
   - **Expand Medium-sized Outlets** in Tier 3 locations, as they contribute the most revenue.
   - **Focus Marketing on Fruits, Vegetables & Snacks** to boost sales further.
